@@ -1,0 +1,73 @@
+.d1{
+    background-color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.param{
+    /* background-color: aquamarine; */
+   display: flex;
+   font-size: 30px;
+   flex-direction: column;
+    align-items: center;
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+}
+.form{
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    border:1px solid rgb(213, 209, 209) ;
+    padding-left: 50px;
+    padding-right: 50px;
+   border-radius:5px ;
+}
+.form-button{
+    background-color: #4cb5f9;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 15px;
+    border-style: none;
+    color: white;
+    margin-bottom:10PX ;
+    
+    
+}
+.input{
+    padding: 10px;
+    border-radius: 3px;
+    background: rgb(241, 243, 244);
+    border-style: none;
+    border: 1px solid rgb(200, 198, 198);
+   
+}
+
+hr{
+    width: 50%;
+    background-color: gray
+ 
+    
+}
+
+.hr-div{
+    display: flex;
+    /* background-color: red; */
+    padding-bottom: 10PX;
+    gap: 5px;
+    margin-top: 10px;
+    font-size: smaller;
+}
+.h4{
+    text-align: center;
+    color:navy;
+
+}
+.forgot{
+    text-align: center;
+    color:darkgrey;
+
+}
